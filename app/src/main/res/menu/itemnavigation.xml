@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/danhBa"
+        android:title="Danh bạ"
+        android:icon="@drawable/baseline_account_circle_24"/>
+
+    <item android:id="@+id/tinNhan"
+        android:title="Tin nhắn"
+        android:icon="@drawable/baseline_message_24"/>
+
+</menu>
